@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+*.log
+backend_log.txt
+error2.txt
+.DS_Store
+# logs
+*.log
+# IDE
+.vscode/
+.idea/
+# build
+out/
+# dependencies
+package-lock.json
+# environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
